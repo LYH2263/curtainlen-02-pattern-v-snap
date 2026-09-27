@@ -11,3 +11,7 @@ body{margin:0;font-family:Segoe UI,sans-serif;background:#e8eef5}
 .panel{width:28px;background:#5dade2;border:1px solid #2874a6}
 .bad{color:#c0392b}
 .fab{margin:.25rem 0}
+.ph{margin:0 .5rem}
+.ph input{width:5rem}
+.calc-line{margin:.75rem 0 .25rem}
+.hint{color:#566573;font-size:.85rem;margin-top:1rem}
